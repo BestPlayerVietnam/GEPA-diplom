@@ -17,9 +17,6 @@
 
 ## 2. Что нужно сделать (План на завтра на мощном железе)
 
-
-adasdasd
-
 ### Шаг 1: Восстановление окружения
 1.  Установить библиотеки: `pip install requests litellm pydantic json_repair`.
 2.  Загрузить модель в Ollama (либо через `ollama create` с твоим Modelfile, либо просто `ollama pull qwen2.5:1.5b` для скорости).
